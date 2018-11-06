@@ -1,2 +1,4 @@
-# k_mean_Distance_Metrics
-In this project, we did implement the k-means algorithm using three different metrics Euclidean, Manhattan, and Minkowski distance metrics to see the best distance metric for the k-means algorithm.
+# k-means with Three different Distance Metrics and Dimension Reduction 
+We will apply manually dimension reduction to Iris data instead of using sklearn in python or R library and compare three different Distance Metrics.
+The power of k-means algorithm is due to its computational efficiency and the nature of ease at which it can be used.
+Distance metrics are used to find similar data objects that lead to develop robust algorithms for the data mining functionalities such as classification and clustering.
